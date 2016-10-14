@@ -1,0 +1,7 @@
+.settings/
+.idea/
+*.pyc
+.project
+.pydevproject
+/env/
+.vscode/
